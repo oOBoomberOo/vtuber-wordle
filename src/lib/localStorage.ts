@@ -1,3 +1,5 @@
+import CryptoJS from "crypto-js";
+
 const gameStateKey = 'gameState'
 const highContrastKey = 'highContrast'
 
@@ -8,12 +10,21 @@ type StoredGameState = {
 }
 
 export const saveGameStateToLocalStorage = (gameState: StoredGameState) => {
-  localStorage.setItem(gameStateKey, JSON.stringify(gameState))
+  const solution = CryptoJS.AES.encrypt(gameState.solution, `${gameState.salt}`).toString();
+  const hashedGameState = { ...gameState, solution };
+  localStorage.setItem(gameStateKey, JSON.stringify(hashedGameState))
 }
 
 export const loadGameStateFromLocalStorage = () => {
   const state = localStorage.getItem(gameStateKey)
-  return state ? (JSON.parse(state) as StoredGameState) : null
+
+  if (state) {
+    const result = JSON.parse(state) as any
+    const solution = CryptoJS.AES.decrypt(result.solution, `${result.salt}`).toString(CryptoJS.enc.Utf8)
+    return { guesses: result.guesses, solution, salt: result.salt } as StoredGameState
+  }
+
+  return null
 }
 
 const gameStatKey = 'gameStats'
