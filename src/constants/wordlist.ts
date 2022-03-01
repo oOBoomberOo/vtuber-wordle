@@ -40,6 +40,7 @@ export const WORDS = [
 	'choco',
 	'civia',
 	'coyoi',
+	'delta',
 	'derem',
 	'diana',
 	'dolly',
