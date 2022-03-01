@@ -3,6 +3,7 @@ import { VALID_GUESSES } from '../constants/validGuesses'
 import { WRONG_SPOT_MESSAGE, NOT_CONTAINED_MESSAGE } from '../constants/strings'
 import { getGuessStatuses } from './statuses'
 import { default as GraphemeSplitter } from 'grapheme-splitter'
+import { loadGameStateFromLocalStorage } from './localStorage'
 
 export const isWordInWordList = (word: string) => {
   return (
@@ -72,19 +73,27 @@ export const localeAwareUpperCase = (text: string) => {
     : text.toUpperCase()
 }
 
+const genSalt = () => {
+  return Math.floor(Math.random() * 2147483647)
+}
+
 export const getWordOfDay = () => {
+  const state = loadGameStateFromLocalStorage()
+  const salt = state?.salt ?? genSalt()
+
   // January 1, 2022 Game Epoch
   const epochMs = new Date('January 1, 2022 00:00:00').valueOf()
   const now = Date.now()
-  const msInDay = (24 / 3) * 60 * 60 * 1000
+  const msInDay = 86400000
   const index = Math.floor((now - epochMs) / msInDay)
   const nextday = (index + 1) * msInDay + epochMs
 
   return {
-    solution: localeAwareUpperCase(WORDS[index % WORDS.length]),
+    solution: localeAwareUpperCase(WORDS[(index + salt) % WORDS.length]),
     solutionIndex: index,
     tomorrow: nextday,
+    salt,
   }
 }
 
-export const { solution, solutionIndex, tomorrow } = getWordOfDay()
+export const { solution, solutionIndex, tomorrow, salt } = getWordOfDay()

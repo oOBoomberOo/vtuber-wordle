@@ -23,6 +23,7 @@ import {
   isWordInWordList,
   isWinningWord,
   solution,
+  salt,
   findFirstUnusedReveal,
   unicodeLength,
 } from './lib/words'
@@ -139,7 +140,7 @@ function App() {
   }
 
   useEffect(() => {
-    saveGameStateToLocalStorage({ guesses, solution })
+    saveGameStateToLocalStorage({ guesses, solution, salt })
   }, [guesses])
 
   useEffect(() => {
