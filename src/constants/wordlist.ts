@@ -72,6 +72,7 @@ export const WORDS = [
 	'izumi',
 	'izuru',
 	'jelly',
+	'kaede',
 	'kaeru',
 	'kanae',
 	'kanau',
