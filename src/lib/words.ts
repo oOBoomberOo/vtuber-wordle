@@ -77,16 +77,24 @@ const genSalt = () => {
   return Math.floor(Math.random() * 2147483647)
 }
 
+const timezone = 9 * 60 * 60 * 1000
+const offset = new Date().getTimezoneOffset() * 60 * 1000
+
+const fixedDate = (date: Date) => {
+  return date.getTime() - timezone - offset
+}
+
 export const getWordOfDay = () => {
   const state = loadGameStateFromLocalStorage()
   const salt = state?.salt ?? genSalt()
 
   // January 1, 2022 Game Epoch
-  const epochMs = new Date('January 1, 2022 00:00:00').valueOf()
+  const fixedEpochMs = fixedDate(new Date('January 1, 2022 00:00:00'))
   const now = Date.now()
   const msInDay = 86400000
-  const index = Math.floor((now - epochMs) / msInDay)
-  const nextday = (index + 1) * msInDay + epochMs
+  const index = Math.floor((now - fixedEpochMs) / msInDay)
+
+  const nextday = (index + 1) * msInDay + fixedEpochMs
 
   return {
     solution: localeAwareUpperCase(WORDS[(index + salt) % WORDS.length]),
