@@ -15,7 +15,7 @@ export const VTUBERS = {
         "group": "AniMare",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLS2sdJrp1tXcGrYbEmie_IGHILqMjQF8dVrV7BZ2A=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Haneru_Inaba",
-        "video_count": "1927",
+        "video_count": "1930",
         "subscriber_count": "311000",
         "clip_count": 299,
         "top_topics": [
@@ -33,8 +33,8 @@ export const VTUBERS = {
         "group": "AniMare",
         "photo": "https://yt3.ggpht.com/Ugui7bmoHS1aQHh1ph_FgBMFvK27pdG6z-sONZ-xkpzKNY5B545FGnWbZHFBBfyBMYHJg4kQrg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Ichika_Souya",
-        "video_count": "652",
-        "subscriber_count": "92100",
+        "video_count": "653",
+        "subscriber_count": "92200",
         "clip_count": 47,
         "top_topics": [
             "singing",
@@ -51,8 +51,8 @@ export const VTUBERS = {
         "group": "AniMare",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQC3VwV4DAA_Le1VEShyGLk6UDQj_5IbYPoFmXY=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Mia_Konan",
-        "video_count": "169",
-        "subscriber_count": "24300",
+        "video_count": "170",
+        "subscriber_count": "24400",
         "clip_count": 1,
         "top_topics": [
             "talk",
@@ -69,8 +69,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/mi9SD7js3fdj9LW8IWqp9BOv3KoGchgc4JRUN3o01NzWdbtPpjR3yN05JFqqV-TTtzJBTpFL=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ChrisHina_ung",
-        "video_count": "114",
-        "subscriber_count": "40100",
+        "video_count": "115",
+        "subscriber_count": "40700",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -87,8 +87,8 @@ export const VTUBERS = {
         "group": "HIYOCRO",
         "photo": "https://yt3.ggpht.com/V4kuuDQ2XtOT0er7XC3J2RfqOkrFCl7eVVrlEEU-WvCwz6112gzzfhpT3V3OZ2Q5jUQJ69D2xMM=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Sei_Touri",
-        "video_count": "76",
-        "subscriber_count": "5660",
+        "video_count": "77",
+        "subscriber_count": "5710",
         "clip_count": 1,
         "top_topics": [
             "singing",
@@ -105,7 +105,7 @@ export const VTUBERS = {
         "group": "HoneyStrap",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSYUSatGTQH95P1P_9VbcSk55-gs_zOStiKA9qU=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Patra_HNST",
-        "video_count": "1528",
+        "video_count": "1529",
         "subscriber_count": "563000",
         "clip_count": 175,
         "top_topics": [
@@ -123,13 +123,13 @@ export const VTUBERS = {
         "group": "HIYOCRO",
         "photo": "https://yt3.ggpht.com/_wi_hVJaUoImdoNDfclroDNTDWT4boTVySpt-HGwYbXpjEdTtjgOWwqHv97EjNSSEGEIZtU4Yg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Popo_Ieiri",
-        "video_count": "71",
-        "subscriber_count": "5740",
+        "video_count": "72",
+        "subscriber_count": "5800",
         "clip_count": 1,
         "top_topics": [
+            "Yu-Gi-Oh!",
             "minecraft",
-            "singing",
-            "Yu-Gi-Oh!"
+            "singing"
         ]
     },
     "canna": {
@@ -141,8 +141,8 @@ export const VTUBERS = {
         "group": "HIYOCRO",
         "photo": "https://yt3.ggpht.com/hmCWg4U-BSCQ2__ZI1f5zEhw8o4Aj8ppobywwi_ZTyT72ndVMGj-FZuQ_7j-XV124j8XuJZY8vg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Canna_Akane",
-        "video_count": "65",
-        "subscriber_count": "5610",
+        "video_count": "66",
+        "subscriber_count": "5680",
         "clip_count": 3,
         "top_topics": [
             "singing",
@@ -159,7 +159,7 @@ export const VTUBERS = {
         "group": "Wave 2020",
         "photo": "https://yt3.ggpht.com/O8kXqY0UQgIGm3xyVYl3Az5xkDyyfyU54mvzf8MUIyYtDy9fbEX_7ujQEO30MvnCkptDb8p-=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "akane_asahina__",
-        "video_count": "258",
+        "video_count": "260",
         "subscriber_count": "170000",
         "clip_count": 49,
         "top_topics": [
@@ -177,7 +177,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/Qb0q2wiPQtdUjHC4okdadaxAAIJ2tbShKznMuGTt8fBDTSe6Q8Y155vlUxjii4_wAVaZ7ayg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Ts0___",
-        "video_count": "146",
+        "video_count": "148",
         "subscriber_count": "243000",
         "clip_count": 32,
         "top_topics": [
@@ -213,8 +213,8 @@ export const VTUBERS = {
         "group": "AniMare",
         "photo": "https://yt3.ggpht.com/A-rY6YFCLjO_EwxF5BDyjrkxoJByAF6HFEWvN2-ps-5JRkkybIPIS8X6shgNo3DSsmD9ixsaRA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Izumi_Yunohara",
-        "video_count": "833",
-        "subscriber_count": "74000",
+        "video_count": "834",
+        "subscriber_count": "74100",
         "clip_count": 23,
         "top_topics": [
             "minecraft",
@@ -232,7 +232,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/bRgGr0-mluyhWu1TAcCkM_IEkyt-fCa9zuln9Yh8st4ChnLGdp_yaiM8QBpoEeMkw0Pw0s_7tmQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "namba_akari",
         "video_count": "78",
-        "subscriber_count": "802",
+        "subscriber_count": "809",
         "clip_count": null,
         "top_topics": [
             "Mahjong",
@@ -267,8 +267,8 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/GdBB68_95kibrSmi2eCD6sNP3Ii3GTAthBneFalDlA8qRDrxqCPu4oCBSkrjuKcFwVpqI6UNiw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Vox_Akuma",
-        "video_count": "94",
-        "subscriber_count": "375000",
+        "video_count": "96",
+        "subscriber_count": "382000",
         "clip_count": 92,
         "top_topics": [
             "genshin",
@@ -303,7 +303,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/f5-Z2S44vBJTJ4so359kS1I1n0XPl46Xq7knHoDx_G6XDZdVd7qVHnPwKturv1fHSR9vEWBK=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Shito_ANON",
-        "video_count": "345",
+        "video_count": "347",
         "subscriber_count": "13000",
         "clip_count": 2,
         "top_topics": [
@@ -321,8 +321,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/fu4QDFJSmDvXbmYtiXlyO09hTNCidl7pVwptGhsYNcV1fNkD6WeJWdjEhx6KgTkG3Jl8e2Qp5ms=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Moemi_Yomeno",
-        "video_count": "87",
-        "subscriber_count": "16700",
+        "video_count": "88",
+        "subscriber_count": "16800",
         "clip_count": null,
         "top_topics": [
             "talk",
@@ -358,7 +358,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLS3Ujqbt2xFARZa13EfnvachUMVVAtTbh5yPc3n=s800-c-k-c0x00ffffff-no-rj",
         "twitter": null,
         "video_count": "56",
-        "subscriber_count": "62600",
+        "subscriber_count": "62900",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -375,7 +375,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/SV-wD1mJ_U0_nN4brWgplANaQw_Y_2h4uS0RkwjoBao1gjxNSxJKr9WJMeCvDrFbRbKXzODY=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "reina_kawaiii",
-        "video_count": "299",
+        "video_count": "301",
         "subscriber_count": "30400",
         "clip_count": 27,
         "top_topics": [
@@ -393,8 +393,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/HRHMo7vsEUtCPjYKT7-hgA9jFjId-TnOHVVkDyozTG4ocaBvYZeAQhUOmWmOM5zwY5rfZxmBFQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "REKUIEMURII",
-        "video_count": "203",
-        "subscriber_count": "6530",
+        "video_count": "205",
+        "subscriber_count": "6540",
         "clip_count": 1,
         "top_topics": [
             "singing",
@@ -411,8 +411,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/RBP6XuW15gdNt2iivDcAfdV2VYP95D8eUHA8a0Apfevx4zJu_uFmsK6KxpyaJcHXC3GUxdxA9so=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "MinaiAlma",
-        "video_count": "46",
-        "subscriber_count": "3260",
+        "video_count": "47",
+        "subscriber_count": "3280",
         "clip_count": null,
         "top_topics": [
             "talk",
@@ -429,8 +429,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/RBP6XuW15gdNt2iivDcAfdV2VYP95D8eUHA8a0Apfevx4zJu_uFmsK6KxpyaJcHXC3GUxdxA9so=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "MinaiAlma",
-        "video_count": "46",
-        "subscriber_count": "3260",
+        "video_count": "47",
+        "subscriber_count": "3280",
         "clip_count": null,
         "top_topics": [
             "talk",
@@ -463,9 +463,9 @@ export const VTUBERS = {
         "group": "3rd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSmHTeNNQp8A4AwsUPKzBa2ubDBWe6RSaG39mAYTw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "usadapekora",
-        "video_count": "864",
+        "video_count": "866",
         "subscriber_count": "1880000",
-        "clip_count": 15753,
+        "clip_count": 15793,
         "top_topics": [
             "minecraft",
             "Dragon_Quest",
@@ -500,8 +500,8 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "nanashimumei_en",
         "video_count": "111",
-        "subscriber_count": "578000",
-        "clip_count": 2115,
+        "subscriber_count": "579000",
+        "clip_count": 2142,
         "top_topics": [
             "singing",
             "minecraft",
@@ -517,9 +517,9 @@ export const VTUBERS = {
         "group": "6th Generation (HoloX)",
         "photo": "https://yt3.ggpht.com/DNC5rGjlwA4Ae7rhpPmkv_QdjJPl8AfpQT9NcXTLvPbbriL-Y0Ni-gYfFH8uoiF6Ay1EP9VnZAk=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "hakuikoyori",
-        "video_count": "168",
-        "subscriber_count": "540000",
-        "clip_count": 1390,
+        "video_count": "170",
+        "subscriber_count": "541000",
+        "clip_count": 1398,
         "top_topics": [
             "morning",
             "ark",
@@ -554,8 +554,8 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "hakosbaelz",
         "video_count": "159",
-        "subscriber_count": "490000",
-        "clip_count": 2791,
+        "subscriber_count": "491000",
+        "clip_count": 2797,
         "top_topics": [
             "minecraft",
             "talk",
@@ -572,8 +572,8 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "hakosbaelz",
         "video_count": "159",
-        "subscriber_count": "490000",
-        "clip_count": 2791,
+        "subscriber_count": "491000",
+        "clip_count": 2797,
         "top_topics": [
             "minecraft",
             "talk",
@@ -623,9 +623,9 @@ export const VTUBERS = {
         "group": "Indonesia 2nd Gen",
         "photo": "https://yt3.ggpht.com/sG7Yb1kCxTEP9ft03E-1Tr2Rho8GhMZ0_Kq9rf5MojWY9pf8vSL24xPG8e8GaE4jOxQKYlSvaL0=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "pavoliareine",
-        "video_count": "451",
-        "subscriber_count": "560000",
-        "clip_count": 2188,
+        "video_count": "452",
+        "subscriber_count": "561000",
+        "clip_count": 2189,
         "top_topics": [
             "minecraft",
             "talk",
@@ -659,9 +659,9 @@ export const VTUBERS = {
         "group": "English (Myth)",
         "photo": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "takanashikiara",
-        "video_count": "475",
+        "video_count": "476",
         "subscriber_count": "1330000",
-        "clip_count": 6678,
+        "clip_count": 6694,
         "top_topics": [
             "minecraft",
             "Superchat_Reading",
@@ -677,9 +677,9 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/Xm04orINtP4PmONA4wcNdEWsQIcsg13FOttvco3A_UBw2UIZKGRowpSCJi_7OqdhzXzx7aOioA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ChloePawapua",
-        "video_count": "107",
+        "video_count": "108",
         "subscriber_count": "108000",
-        "clip_count": 503,
+        "clip_count": 506,
         "top_topics": [
             "singing",
             "minecraft",
@@ -697,7 +697,7 @@ export const VTUBERS = {
         "twitter": "hololivetv",
         "video_count": "375",
         "subscriber_count": "1640000",
-        "clip_count": 3724,
+        "clip_count": 3735,
         "top_topics": [
             "Original_Song",
             "singing",
@@ -713,9 +713,9 @@ export const VTUBERS = {
         "group": "5th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQI_iYxOpfP8bJklQ_VnS4a9jdrwRRlre_JP1Yp=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "omarupolka",
-        "video_count": "594",
-        "subscriber_count": "935000",
-        "clip_count": 3812,
+        "video_count": "597",
+        "subscriber_count": "936000",
+        "clip_count": 3820,
         "top_topics": [
             "minecraft",
             "singing",
@@ -731,9 +731,9 @@ export const VTUBERS = {
         "group": "5th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQI_iYxOpfP8bJklQ_VnS4a9jdrwRRlre_JP1Yp=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "omarupolka",
-        "video_count": "594",
-        "subscriber_count": "935000",
-        "clip_count": 3812,
+        "video_count": "597",
+        "subscriber_count": "936000",
+        "clip_count": 3820,
         "top_topics": [
             "minecraft",
             "singing",
@@ -750,7 +750,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQZ7kGnEH7CsX4Eoe79iPVh6Vp6oa2iP3_kInXO=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "uruha_ichinose",
         "video_count": "936",
-        "subscriber_count": "351000",
+        "subscriber_count": "352000",
         "clip_count": 718,
         "top_topics": [
             "apex",
@@ -769,7 +769,7 @@ export const VTUBERS = {
         "twitter": "astelleda",
         "video_count": "536",
         "subscriber_count": "185000",
-        "clip_count": 595,
+        "clip_count": 597,
         "top_topics": [
             "apex",
             "singing",
@@ -785,9 +785,9 @@ export const VTUBERS = {
         "group": "English (Council)",
         "photo": "https://yt3.ggpht.com/1rUoSkwh5LJbR8ez3-l02cdoOIKt9IlhKJxkBTqoff2qZb-VV3wUTFpkE2cNDQnOjk8wR-TW=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ceresfauna",
-        "video_count": "107",
-        "subscriber_count": "472000",
-        "clip_count": 1560,
+        "video_count": "108",
+        "subscriber_count": "473000",
+        "clip_count": 1565,
         "top_topics": [
             "asmr",
             "membersonly",
@@ -803,9 +803,9 @@ export const VTUBERS = {
         "group": "English (Council)",
         "photo": "https://yt3.ggpht.com/1rUoSkwh5LJbR8ez3-l02cdoOIKt9IlhKJxkBTqoff2qZb-VV3wUTFpkE2cNDQnOjk8wR-TW=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ceresfauna",
-        "video_count": "107",
-        "subscriber_count": "472000",
-        "clip_count": 1560,
+        "video_count": "108",
+        "subscriber_count": "473000",
+        "clip_count": 1565,
         "top_topics": [
             "asmr",
             "membersonly",
@@ -821,9 +821,9 @@ export const VTUBERS = {
         "group": "Indonesia 1st Gen",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRaHP1Qoi3zFxbQYdbX4MNnV18TrqjFBwDxgTlNqg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "moonahoshinova",
-        "video_count": "373",
+        "video_count": "375",
         "subscriber_count": "1000000",
-        "clip_count": 3392,
+        "clip_count": 3401,
         "top_topics": [
             "minecraft",
             "talk",
@@ -893,7 +893,7 @@ export const VTUBERS = {
         "twitter": "shishirobotan",
         "video_count": "535",
         "subscriber_count": "1090000",
-        "clip_count": 6243,
+        "clip_count": 6253,
         "top_topics": [
             "minecraft",
             "Call_of_Duty",
@@ -910,8 +910,8 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLT_TLZsRHyNXj_3v1QIfF5Z1LOEIKQPL_7HGH29=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "nekomataokayu",
         "video_count": "521",
-        "subscriber_count": "1320000",
-        "clip_count": 5297,
+        "subscriber_count": "1330000",
+        "clip_count": 5303,
         "top_topics": [
             "talk",
             "Super Mario",
@@ -927,9 +927,9 @@ export const VTUBERS = {
         "group": "3rd Generation",
         "photo": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "shiranuiflare",
-        "video_count": "804",
-        "subscriber_count": "863000",
-        "clip_count": 5674,
+        "video_count": "805",
+        "subscriber_count": "864000",
+        "clip_count": 5687,
         "top_topics": [
             "minecraft",
             "singing",
@@ -945,8 +945,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/GoJAMM2gbVnT1fNzXW5kczP8yAOrtkha0j0Ex_1sEhBPji80nC5vwygCAP-jWd6NRxZ7yv75vg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "inariiroha_",
-        "video_count": "42",
-        "subscriber_count": "28600",
+        "video_count": "44",
+        "subscriber_count": "28900",
         "clip_count": 1,
         "top_topics": [
             "minecraft",
@@ -964,7 +964,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/AyUL9W0ltc_aJr_MysuZBx8hRfb1SIVNREgU9kiOO-lqmdhYkEsllmhagertVIwHwa3UAAKy=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "murasakishionch",
         "video_count": "419",
-        "subscriber_count": "979000",
+        "subscriber_count": "980000",
         "clip_count": 4029,
         "top_topics": [
             "minecraft",
@@ -981,9 +981,9 @@ export const VTUBERS = {
         "group": "Indonesia 2nd Gen",
         "photo": "https://yt3.ggpht.com/jWxru6sHDDSuKF-gztFg_WSoMp2da_d019iH0xz0MDWc7TIhetK8id_mVKV0PxWKp-QS23AzfQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "kureijiollie",
-        "video_count": "411",
-        "subscriber_count": "979000",
-        "clip_count": 4169,
+        "video_count": "413",
+        "subscriber_count": "980000",
+        "clip_count": 4172,
         "top_topics": [
             "apex",
             "minecraft",
@@ -1017,9 +1017,9 @@ export const VTUBERS = {
         "group": "4th Generation",
         "photo": "https://yt3.ggpht.com/TlH8nz5O9UYo5JZ_5fo4JfXdT18N0Ck27wWrulni-c1g5bwes0tVmFiSKICzI1SW7itaTkk9GA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "amanekanatach",
-        "video_count": "814",
+        "video_count": "816",
         "subscriber_count": "1160000",
-        "clip_count": 7332,
+        "clip_count": 7333,
         "top_topics": [
             "minecraft",
             "singing",
@@ -1053,7 +1053,7 @@ export const VTUBERS = {
         "group": "SEEDS",
         "photo": "https://yt3.ggpht.com/U-cGSPzDv4uks9oaX3DCE0oeRsI_QzwDtwYt-koDk_7deHb4Wzvl5KKzoh2D5xhpsDeE6b7W=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "KT_seeds",
-        "video_count": "541",
+        "video_count": "542",
         "subscriber_count": "117000",
         "clip_count": 45,
         "top_topics": [
@@ -1125,8 +1125,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLScCbGWdkoORPsqe42lnmBEUqLqV7Uv_KqRJxRV=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "iorinemea",
-        "video_count": "223",
-        "subscriber_count": "6430",
+        "video_count": "224",
+        "subscriber_count": "6440",
         "clip_count": null,
         "top_topics": [
             "apex",
@@ -1143,7 +1143,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/fOOjnAcpiXk9CXdgflZqzVh49LzKNYnDqbCUjJSCd9cYvi8rbjTCIsGppIsbzfbXsVWh9w3Mkg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "choueki_tarou",
-        "video_count": "824",
+        "video_count": "825",
         "subscriber_count": "410000",
         "clip_count": 9,
         "top_topics": [
@@ -1162,7 +1162,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/UgJzz2-VL4TamHnVgLak7tapI0PCqe2b-NokyRVUhOz4RCWS3ZojwCcumeYcl5xuYa-k4cyt=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "kuukivt",
         "video_count": "34",
-        "subscriber_count": "42500",
+        "subscriber_count": "42700",
         "clip_count": 17,
         "top_topics": [
             "singing",
@@ -1180,7 +1180,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/UgJzz2-VL4TamHnVgLak7tapI0PCqe2b-NokyRVUhOz4RCWS3ZojwCcumeYcl5xuYa-k4cyt=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "kuukivt",
         "video_count": "34",
-        "subscriber_count": "42500",
+        "subscriber_count": "42700",
         "clip_count": 17,
         "top_topics": [
             "singing",
@@ -1197,13 +1197,13 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/x-gRa1fVRu9Rlc8sVng_g3tVdru7LerxDwlkal-bcEI4njwqab3V9E43ZB1hWVkN267p_j_nzA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "821usa",
-        "video_count": "27",
-        "subscriber_count": "6220",
+        "video_count": "29",
+        "subscriber_count": "6360",
         "clip_count": null,
         "top_topics": [
             "Marshmallow",
-            "dbd",
-            "Mahjong"
+            "Mahjong",
+            "dbd"
         ]
     },
     "shumi": {
@@ -1215,8 +1215,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/RCNuctmxIVNBJeHYKXg7Q7zYvTOyC5opAML90N672jCj3MnGlxJ74C1sZBX_0D3oO-uh0gs0WQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Shumikea_kea",
-        "video_count": "75",
-        "subscriber_count": "98400",
+        "video_count": "76",
+        "subscriber_count": "99500",
         "clip_count": null,
         "top_topics": [
             "drawing",
@@ -1233,8 +1233,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSZENxppnfCioW1Wzi87-Jnh1oxokzei1KwHhUN=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Kazami_Mikan83",
-        "video_count": "220",
-        "subscriber_count": "6830",
+        "video_count": "221",
+        "subscriber_count": "6840",
         "clip_count": 17,
         "top_topics": [
             "singing",
@@ -1269,7 +1269,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRBqgiUkoIUxCvWOGVu99IkieiXOxmnuiBZDo9v=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "asahinina",
-        "video_count": "774",
+        "video_count": "776",
         "subscriber_count": "31400",
         "clip_count": null,
         "top_topics": [
@@ -1287,7 +1287,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/p_KZwci3Fr3U8W7TQbYBikpiHaZO7GYGJE27VO7L7ierPczMDFYFECPesA9JeEEwZ1QP48g6V3E=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "aomichi_akato",
-        "video_count": "242",
+        "video_count": "244",
         "subscriber_count": "8070",
         "clip_count": null,
         "top_topics": [
@@ -1341,8 +1341,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSg5LQX2H2udC8c5yTp3jm6MjA9HfN5jvGR7C8Q=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "MomonyaMiyui",
-        "video_count": "327",
-        "subscriber_count": "25700",
+        "video_count": "336",
+        "subscriber_count": "25800",
         "clip_count": 3,
         "top_topics": [
             "asmr",
@@ -1359,7 +1359,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/P2jw5Pw7Gy-oOsZ1ej3DrLMHy_ncCA4EYI1UTy8wWZzV7sp_xVUtuP9ZGgm4TjXfvlDeY6tj=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "NyoroVanilla",
-        "video_count": "547",
+        "video_count": "549",
         "subscriber_count": "50600",
         "clip_count": 7,
         "top_topics": [
@@ -1377,9 +1377,9 @@ export const VTUBERS = {
         "group": "Gamers",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSIXjxaKvTQAgBpIwZtdI_Ux_cUEi3wefTTSVZW1w=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "yuika_siina",
-        "video_count": "1046",
-        "subscriber_count": "560000",
-        "clip_count": 1100,
+        "video_count": "1047",
+        "subscriber_count": "561000",
+        "clip_count": 1102,
         "top_topics": [
             "apex",
             "minecraft",
@@ -1431,8 +1431,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/STnsuK1DcTk03CUhdVevkupXytP5pY_rrJs87_d7MJxIkDUkGRj0AE1zjT4Tm7AamNEuyFwLZUM=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "AkemiNekomachi",
-        "video_count": "183",
-        "subscriber_count": "30300",
+        "video_count": "186",
+        "subscriber_count": "30400",
         "clip_count": 12,
         "top_topics": [
             "minecraft",
@@ -1450,7 +1450,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/hv7dfepExXmelYtqOeFp4hGu8kgewYZTT23M4Pn4A8H7fKzFgaS4ld_9JNOfyQgywe_TNw04Sg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "MaisakiBerry",
         "video_count": "320",
-        "subscriber_count": "55400",
+        "subscriber_count": "55600",
         "clip_count": 18,
         "top_topics": [
             "singing",
@@ -1467,8 +1467,8 @@ export const VTUBERS = {
         "group": "Wave 1",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTeATN14aTpJw1kpSdBUvcfiiHYVpNjGKnlmlc4=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Chihiro_yuki23",
-        "video_count": "1147",
-        "subscriber_count": "591000",
+        "video_count": "1148",
+        "subscriber_count": "592000",
         "clip_count": 963,
         "top_topics": [
             "apex",
@@ -1485,8 +1485,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQFLplXhASdKb27IgkXJ-jvvcEXIJ0EJbfmam-T7Q=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "meikahaotoko",
-        "video_count": "1804",
-        "subscriber_count": "326000",
+        "video_count": "1809",
+        "subscriber_count": "327000",
         "clip_count": 47,
         "top_topics": [
             "Mahjong",
@@ -1503,8 +1503,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQi9NYiRN_z0PbgH0aHvwPKADN5vIkay4FV535X=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "senba_crow",
-        "video_count": "402",
-        "subscriber_count": "87100",
+        "video_count": "403",
+        "subscriber_count": "87200",
         "clip_count": 3,
         "top_topics": [
             "Mahjong",
@@ -1521,8 +1521,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/E91Hll7YPhtg18uQxK1CJD-uC4psTrC-TpHMz3C41WmCWNJirukTyDZk1swm0RlIIm67K-rq=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "tammy_now",
-        "video_count": "809",
-        "subscriber_count": "119000",
+        "video_count": "811",
+        "subscriber_count": "120000",
         "clip_count": 9,
         "top_topics": [
             "shorts",
@@ -1611,7 +1611,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/TR_3p0VJq-hgN7WRtuVUtrTlYFqqlYMfhHhNB61AOwg1PDVATnf-0X0drTnoF1QoyvjGjzxQ6A=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "kamishiro_kurea",
-        "video_count": "1076",
+        "video_count": "1078",
         "subscriber_count": "40000",
         "clip_count": 12,
         "top_topics": [
@@ -1629,8 +1629,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/LRC7yx0Uu77BZl2WNpGbJOrk0dDfWcWNRCzB0iFCjOpnxEm_vr-OkquJ7v6ztA90PxfDbksUOA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ShabelTonya",
-        "video_count": "83",
-        "subscriber_count": "39400",
+        "video_count": "85",
+        "subscriber_count": "41700",
         "clip_count": null,
         "top_topics": [
             "minecraft",
@@ -1647,8 +1647,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTyVbufpQgz9XwK27cQemZ9qqc0RIA_jHuek-cmng=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "jaretghosty",
-        "video_count": "540",
-        "subscriber_count": "75800",
+        "video_count": "542",
+        "subscriber_count": "76000",
         "clip_count": 6,
         "top_topics": [
             "genshin",
@@ -1666,7 +1666,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSWUhO9pGig1VbC-eVs4T6M7yRKbe-C2wD2JQSv=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "RayAkira2434",
         "video_count": "291",
-        "subscriber_count": "41500",
+        "subscriber_count": "41600",
         "clip_count": 13,
         "top_topics": [
             "minecraft",
@@ -1683,8 +1683,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/aBNQcayHrtnuSxMgVJCjzZUiF-66pgVuMKlrB2lq-kxDSpSPTBw7uMl6mAt9WDFuGDBM1Sh4=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Piiiikoooon8",
-        "video_count": "194",
-        "subscriber_count": "30400",
+        "video_count": "196",
+        "subscriber_count": "30700",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -1701,8 +1701,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/aBNQcayHrtnuSxMgVJCjzZUiF-66pgVuMKlrB2lq-kxDSpSPTBw7uMl6mAt9WDFuGDBM1Sh4=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Piiiikoooon8",
-        "video_count": "194",
-        "subscriber_count": "30400",
+        "video_count": "196",
+        "subscriber_count": "30700",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -1737,7 +1737,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/w0rDvplG_s0vdP7OnMBpp9hm_e5i_tBEGlhWPPY0iVDiD0EZJD1V987SrUhHk8RZ2RMcpFMs=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "VAngelf_Riel",
-        "video_count": "38",
+        "video_count": "39",
         "subscriber_count": "15000",
         "clip_count": 4,
         "top_topics": [
@@ -1773,7 +1773,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTy-fHsZiwWR8t4fpyeObLKNCKEW2gEaUlZD_A1jw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "zoubamanabi",
-        "video_count": "377",
+        "video_count": "379",
         "subscriber_count": "38200",
         "clip_count": null,
         "top_topics": [
@@ -1791,8 +1791,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRMRunPrpj7qR42AQntSltAEjigk38rp37WCcy3=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "usuwasuu",
-        "video_count": "171",
-        "subscriber_count": "26100",
+        "video_count": "173",
+        "subscriber_count": "26200",
         "clip_count": 2,
         "top_topics": [
             "singing",
@@ -1809,7 +1809,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRSbrN_85qZLa7pI530I5j7Aw9qAvKq47ooidkh=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ringo_0_0_5",
-        "video_count": "284",
+        "video_count": "285",
         "subscriber_count": "28100",
         "clip_count": 3,
         "top_topics": [
@@ -1900,7 +1900,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTr3rFhE02HlwmUHOOmkVad7bUDScxSPmZuRXCs=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "gabri_elchan",
         "video_count": "16",
-        "subscriber_count": "66000",
+        "subscriber_count": "65900",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -1917,7 +1917,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRkuxLsDkVRfyh5vELRmaE3_BsCDeELhiMUX-rX0w=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "2525_amuamu",
-        "video_count": "420",
+        "video_count": "421",
         "subscriber_count": "86400",
         "clip_count": null,
         "top_topics": [
@@ -1935,8 +1935,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/vEskyeepsWM9zz1bmFVCpo-bC8YJ5cqr81RQha04oSD2hs9HsG6nEph3TB9hxeKs-tB-eDulNZE=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "yuuriu95",
-        "video_count": "224",
-        "subscriber_count": "97100",
+        "video_count": "225",
+        "subscriber_count": "97200",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -1971,7 +1971,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/03hUmg1J16YxxQhMisCH8WHiaaH0EFEuUrsQNdtxJhIg3WlEXJ6RIzBXwGTqAKLI2VPyeWoLyEg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": null,
-        "video_count": "281",
+        "video_count": "282",
         "subscriber_count": "204000",
         "clip_count": 18,
         "top_topics": [
@@ -1990,7 +1990,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/bzVXYRdnBGEIeIcNFLrrakRdqrjEVm2rdrrNRgZI-nxKmn2IAATNUj2xae7_TvV1zKXssn0E3s0=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Reiny_ENVT // Ojiki: ",
         "video_count": "921",
-        "subscriber_count": "22500",
+        "subscriber_count": "22600",
         "clip_count": 14,
         "top_topics": [
             "apex",
@@ -2007,8 +2007,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/H_5fRga-QAONuT-pXTiEHVeuT-tlBb0QzpO-4Y20_fmn1906F796FdvnHPIrj9HuGHaC2q26gw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "SafiyyaRaima",
-        "video_count": "187",
-        "subscriber_count": "50300",
+        "video_count": "189",
+        "subscriber_count": "50700",
         "clip_count": 3,
         "top_topics": [
             "Blue_Archive",
@@ -2025,7 +2025,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/OBrzJM-_sz168Jm9Gb2tfthSbD55DTjkvG8Qeya4L52XFyxTqCFUwSw4d0_BYQyIaVIQQ5kKZ7Y=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "YuukaBear1",
-        "video_count": "528",
+        "video_count": "529",
         "subscriber_count": "118000",
         "clip_count": 2,
         "top_topics": [
@@ -2043,8 +2043,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/TvAveeLc8oti8L28uzTcn2KVZ8ovNlakW0eFH3Nru_oEOxOKUYEHKUnLpPnBx8mLppDfPmE39Q=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "minimaru",
-        "video_count": "377",
-        "subscriber_count": "49500",
+        "video_count": "378",
+        "subscriber_count": "49700",
         "clip_count": null,
         "top_topics": [
             "drawing",
@@ -2061,8 +2061,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/5DX8quP7PMLOM1SE9E8c4St1BP13kIWITMhBIBp68IIh1gmW12b_wrcGjYG5scokN7xncNCv=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "koaku_mayo",
-        "video_count": "200",
-        "subscriber_count": "34000",
+        "video_count": "204",
+        "subscriber_count": "34100",
         "clip_count": 2,
         "top_topics": [
             "monhun",
@@ -2079,7 +2079,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLST1GVIjFmxECKEGh6Qde3YQ7hF_zk0R-EA9E20=s800-c-k-c0x00ffffff-no-rj",
         "twitter": null,
-        "video_count": "779",
+        "video_count": "781",
         "subscriber_count": "145000",
         "clip_count": 32,
         "top_topics": [
@@ -2133,7 +2133,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/FJkeACVl9gJrZoN2YnNxb6arKiEBBz2VAQYMIaJvD9SkOLdVzX9djTfTTnT8_dYBN6u5LF1k3xI=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "KyriaVtuber",
-        "video_count": "313",
+        "video_count": "314",
         "subscriber_count": "51100",
         "clip_count": 2,
         "top_topics": [
@@ -2169,7 +2169,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTKwFfmY9LWev5Q_rDkmOhFT6fhJh9NoQX6pA2Vtw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "takao_shinji",
-        "video_count": "278",
+        "video_count": "281",
         "subscriber_count": "152000",
         "clip_count": null,
         "top_topics": [
@@ -2205,7 +2205,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLS09Ph0eazxNGOTp7NE2VVbeF_0vHYcjW5UOCRraA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "MiraiAkari_prj",
-        "video_count": "473",
+        "video_count": "474",
         "subscriber_count": "711000",
         "clip_count": 12,
         "top_topics": [
@@ -2223,7 +2223,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/YKq3c-bCT8unR5mJejM_S6aHJmjU1oRdItwqROvvVvqLUOfQekPw1CIfJoN7_QB0IcAdHUgNFw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "kaina0124",
-        "video_count": "302",
+        "video_count": "303",
         "subscriber_count": "56500",
         "clip_count": null,
         "top_topics": [
@@ -2241,8 +2241,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/bCURl8GuSPFhHKJOv2ZJTv6Rvar6aArna715SmIAWemHmiZ9wEp4dgB3NIeAdiiX5kBGacKa=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "yaso_toiki",
-        "video_count": "129",
-        "subscriber_count": "20800",
+        "video_count": "131",
+        "subscriber_count": "21000",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -2259,7 +2259,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRQbg2x4WfDti1ONZC0zIYVoscuk6OyZB_M66UNNw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "omesis_rio",
-        "video_count": "784",
+        "video_count": "785",
         "subscriber_count": "291000",
         "clip_count": 13,
         "top_topics": [
@@ -2278,7 +2278,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/YdsQgDNJ79rYysTvO3PnHvJF0xF1djxAgIuvYE6DWTJXo5bBAcza1msL96VTY_OCoAVHU4APPQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "RuliaHoshina",
         "video_count": "154",
-        "subscriber_count": "47200",
+        "subscriber_count": "47400",
         "clip_count": 2,
         "top_topics": [
             "asmr",
@@ -2295,7 +2295,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/tUjgQhGzqsQHR0hn4I9fCh1mkYsTzhlsaXRcfAI4w7BQyFxlRDVZbvx0qviDCEytQ2et83sA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": null,
-        "video_count": "1270",
+        "video_count": "1272",
         "subscriber_count": "175000",
         "clip_count": 53,
         "top_topics": [
@@ -2313,7 +2313,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/tUjgQhGzqsQHR0hn4I9fCh1mkYsTzhlsaXRcfAI4w7BQyFxlRDVZbvx0qviDCEytQ2et83sA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": null,
-        "video_count": "1270",
+        "video_count": "1272",
         "subscriber_count": "175000",
         "clip_count": 53,
         "top_topics": [
@@ -2349,8 +2349,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTCwPYAcMn0Wa21cEmXQ-gZ6Inpu7_z5iIkneFNww=s800-c-k-c0x00ffffff-no-rj-mo",
         "twitter": "cho_v_ko",
-        "video_count": "49",
-        "subscriber_count": "6770",
+        "video_count": "50",
+        "subscriber_count": "6780",
         "clip_count": 4,
         "top_topics": [
             "Music_Cover",
@@ -2368,7 +2368,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/zJPw7RbGI5MdmF8LatihAbsIYuG6AHalSJdXgLYnQxAdg3usKqCeGIe-k8QB30hNmgt4On5ivw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "saekiyahiro",
         "video_count": "99",
-        "subscriber_count": "24700",
+        "subscriber_count": "24900",
         "clip_count": null,
         "top_topics": [
             "drawing",
@@ -2404,7 +2404,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/klWgkR79Wh1PklCJ4c-MlnQq5cLXYItgkIXU2Dv6ZSC3NSi924PN-egSKJbXpIN6MI9hqvBE=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "isseikaich",
         "video_count": "343",
-        "subscriber_count": "56300",
+        "subscriber_count": "56400",
         "clip_count": 4,
         "top_topics": [
             "singing",
@@ -2421,8 +2421,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLR2V-3izHXJKoioDDGlL13f_M804kh3PYGkUdjv=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ayamy_garubinu",
-        "video_count": "371",
-        "subscriber_count": "56200",
+        "video_count": "373",
+        "subscriber_count": "56300",
         "clip_count": 14,
         "top_topics": [
             "drawing",
@@ -2440,7 +2440,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/N7dYBRxK0GW66erUUq3KYVPEy4Mf8HeGaL9B_Yd8Swn2QUs2MKb8uShLBJGmawtmqXi-JGxp8A=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "r_snsm",
         "video_count": "28",
-        "subscriber_count": "56600",
+        "subscriber_count": "56800",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -2458,7 +2458,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSzIiLpEgv__hStukPEynSNNpYOmiVCyXu6gwVw3w=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "KiraOmori",
         "video_count": "39",
-        "subscriber_count": "60200",
+        "subscriber_count": "60300",
         "clip_count": 2,
         "top_topics": [
             "drawing",
@@ -2494,7 +2494,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSZHTJD6dObsRLhGh9_WxKHBy3QYlS-lYLXT8cH=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Ilu_Fluor",
         "video_count": "219",
-        "subscriber_count": "82800",
+        "subscriber_count": "83000",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -2512,7 +2512,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/h9xa-NOn4OWO4grMoEq-L6nCUZkQHemxSirJfmN80Fsr-aBYNiIf5k3n5IzWQhXLj-LWSZmncg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "mutou_shio",
         "video_count": "243",
-        "subscriber_count": "67400",
+        "subscriber_count": "67900",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -2529,7 +2529,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLS_0dNWV05uIMeq0JrY05lBkFFnzC8Hut8Qipde=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "TamakiErina",
-        "video_count": "246",
+        "video_count": "248",
         "subscriber_count": "68400",
         "clip_count": null,
         "top_topics": [
@@ -2547,7 +2547,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQPisgYAF5-zbl0j3i-RUxK_mKZN2iwlr0_TIc1Ww=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ark03_",
-        "video_count": "59",
+        "video_count": "58",
         "subscriber_count": "135000",
         "clip_count": null,
         "top_topics": [
@@ -2619,7 +2619,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/AGSgo2bp-XpSl_Sj_XsZVbpC09X2MUy4LbGNXAQAnLpZCd_CVwNa6ijbkHYb5lvAbvyD5IH4uQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "yuno_usami",
-        "video_count": "323",
+        "video_count": "324",
         "subscriber_count": "12800",
         "clip_count": 171,
         "top_topics": [
@@ -2637,7 +2637,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/LjRrORgfwIDpqbhlJH5k-ZOFojGUwdjk9Sym17ITMnrUIxek3fRs5MHzbI0N-RzJdAJr4vNTh3k=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Miria_Sakuragi_",
-        "video_count": "470",
+        "video_count": "471",
         "subscriber_count": "43000",
         "clip_count": 2,
         "top_topics": [
@@ -2655,8 +2655,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/U7_W3Hjl4qGpWUBeY_jhbj5-uKXALQPODOaFY46TnV3gfwtmuA6kUQgP9NmPZPBlmcR4uIDLDA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Ratio_Yuires",
-        "video_count": "195",
-        "subscriber_count": "23400",
+        "video_count": "196",
+        "subscriber_count": "23500",
         "clip_count": null,
         "top_topics": [
             "shorts",
@@ -2727,7 +2727,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQWQ8kRdOHFBLKIgC119Y5_O3KmUAwIJ8k8h-Si=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "AsaIfrit",
-        "video_count": "272",
+        "video_count": "273",
         "subscriber_count": "41500",
         "clip_count": 1,
         "top_topics": [
@@ -2763,7 +2763,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQRPy87Xxg71m1ZSumOhKtELFIFCO6Swz1DuEdk=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "umitsukishell",
-        "video_count": "254",
+        "video_count": "240",
         "subscriber_count": "27400",
         "clip_count": 5,
         "top_topics": [
@@ -2781,7 +2781,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "obakepam",
-        "video_count": "444",
+        "video_count": "445",
         "subscriber_count": "11300",
         "clip_count": null,
         "top_topics": [
@@ -2835,7 +2835,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/Yvf_hY5jqgmpOP8pxfr7oxwwT7VDFARHnL4Wi7tXuRd7flHYYRUocB4iXn-6DJyR4EHXehoyqfw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "necoma_kemo",
-        "video_count": "101",
+        "video_count": "102",
         "subscriber_count": "107000",
         "clip_count": null,
         "top_topics": [
@@ -2871,8 +2871,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/LDebWz-vI38QN-ZLJEzEfqSqHauAZzHdOd9c6Etu6NxnepjO75GbOlu0MWjSPEGexQsmlyePHg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "komae_kemo",
-        "video_count": "93",
-        "subscriber_count": "37700",
+        "video_count": "94",
+        "subscriber_count": "37900",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -2889,8 +2889,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/rEAdomUjoJZLx6q2RdDyfHcD3wF0_3OMuWrnMyrpuWy_J3UIXpKJJp2iX9oertCKD_avGlBPhTc=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Rururica_VTuber",
-        "video_count": "240",
-        "subscriber_count": "23300",
+        "video_count": "242",
+        "subscriber_count": "23400",
         "clip_count": 68,
         "top_topics": [
             "Miitopia",
@@ -2925,7 +2925,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/T1zQF2H4KDqOpYdqoGtcMlWeZ_qpmvGTp1zNA-dQ-tQJxzxp0choIM9mr7dNB-LLaCev5_pGGE0=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "SIROyoutuber",
-        "video_count": "1224",
+        "video_count": "1225",
         "subscriber_count": "675000",
         "clip_count": 79,
         "top_topics": [
@@ -2943,7 +2943,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/T1zQF2H4KDqOpYdqoGtcMlWeZ_qpmvGTp1zNA-dQ-tQJxzxp0choIM9mr7dNB-LLaCev5_pGGE0=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "SIROyoutuber",
-        "video_count": "1224",
+        "video_count": "1225",
         "subscriber_count": "675000",
         "clip_count": 79,
         "top_topics": [
@@ -2997,13 +2997,13 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/nI-tReXVFanBo76i8Llr2usSl4e-KRccnr2T4XDPB0-deuFRKa7mFTZSrogch7PY2HOufEg4=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "KevinVangardo",
-        "video_count": "18",
-        "subscriber_count": "20700",
-        "clip_count": 5,
+        "video_count": "19",
+        "subscriber_count": "21400",
+        "clip_count": 6,
         "top_topics": [
             "Super Mario",
-            "asmr",
-            "singing"
+            "singing",
+            "Roblox"
         ]
     },
     "pocha": {
@@ -3034,7 +3034,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/bRgGr0-mluyhWu1TAcCkM_IEkyt-fCa9zuln9Yh8st4ChnLGdp_yaiM8QBpoEeMkw0Pw0s_7tmQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "namba_akari",
         "video_count": "78",
-        "subscriber_count": "802",
+        "subscriber_count": "809",
         "clip_count": null,
         "top_topics": [
             "Mahjong",
@@ -3052,7 +3052,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTcI1r_0u7qRZVFt8FfuRJVM4iBWX-1vcxzhS87=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "yuntyamutyamu",
         "video_count": "109",
-        "subscriber_count": "1730",
+        "subscriber_count": "1740",
         "clip_count": 16,
         "top_topics": [
             "talk",
@@ -3069,7 +3069,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLR1X5BSntTo98y5jgi2SpX6OtypLd7P9OxOv5XePA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Bando004",
-        "video_count": "765",
+        "video_count": "766",
         "subscriber_count": "3420",
         "clip_count": 2,
         "top_topics": [
@@ -3087,7 +3087,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLR1X5BSntTo98y5jgi2SpX6OtypLd7P9OxOv5XePA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Bando004",
-        "video_count": "765",
+        "video_count": "766",
         "subscriber_count": "3420",
         "clip_count": 2,
         "top_topics": [
@@ -3106,12 +3106,12 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLT9slvFTG9wtvL8ULN6i9-qJnV5QpJqu7Qp5n6Q=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Miwao_chan",
         "video_count": "340",
-        "subscriber_count": "1870",
+        "subscriber_count": "1880",
         "clip_count": 27,
         "top_topics": [
             "talk",
-            "Mahjong",
-            "singing"
+            "singing",
+            "Mahjong"
         ]
     },
     "tesla": {
@@ -3123,8 +3123,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/w43w9Pp49F5FL3Et9lhdZLudd2FGcO8Bf9bPmQvsIGWIrAZK9VcybJh3_95axtHtBKiu29zatw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ltoshinoTesla",
-        "video_count": "104",
-        "subscriber_count": "16900",
+        "video_count": "105",
+        "subscriber_count": "17000",
         "clip_count": null,
         "top_topics": [
             "talk",
@@ -3141,8 +3141,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/vP8sLOh2OreCeAZ2gVu47jAE7zAWu3-Nk_UN2SsB95Bz16EcXb4ckpkNZhDyWEU_x2wVln4iY8o=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Ebisu_Touka",
-        "video_count": "14",
-        "subscriber_count": "6000",
+        "video_count": "15",
+        "subscriber_count": "6150",
         "clip_count": null,
         "top_topics": [
             "fallguys",
@@ -3159,8 +3159,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/vP8sLOh2OreCeAZ2gVu47jAE7zAWu3-Nk_UN2SsB95Bz16EcXb4ckpkNZhDyWEU_x2wVln4iY8o=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Ebisu_Touka",
-        "video_count": "14",
-        "subscriber_count": "6000",
+        "video_count": "15",
+        "subscriber_count": "6150",
         "clip_count": null,
         "top_topics": [
             "fallguys",
@@ -3195,9 +3195,9 @@ export const VTUBERS = {
         "group": "Gamers",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQFPb_KIoPk1KxGXzAG71u4rKIUFiEzYRN_xeHm=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "honmahimawari",
-        "video_count": "1144",
+        "video_count": "1146",
         "subscriber_count": "687000",
-        "clip_count": 841,
+        "clip_count": 843,
         "top_topics": [
             "minecraft",
             "Pokemon",
@@ -3213,7 +3213,7 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQzg8xJhnA1WC2kOqvtVKl8JWWr1vxk4vv6GkSX6w=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Gwelu_os_gar",
-        "video_count": "474",
+        "video_count": "476",
         "subscriber_count": "361000",
         "clip_count": 289,
         "top_topics": [
@@ -3231,8 +3231,8 @@ export const VTUBERS = {
         "group": "Generation 3",
         "photo": "https://yt3.ggpht.com/h1zo_a1jH1dSzn3tZkWFSb-VWzkzcGDaXNNuhXsg1ZXfqZv85UUSwYQAOvPwTHxtW56WhbbyQg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "uzukitomoya",
-        "video_count": "82",
-        "subscriber_count": "5470",
+        "video_count": "84",
+        "subscriber_count": "5630",
         "clip_count": 1,
         "top_topics": [
             "singing",
@@ -3267,9 +3267,9 @@ export const VTUBERS = {
         "group": "Nijisanji ID",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTZlSN-xKAvHVnVfQjn_y1q6XYJADmcERl9s4Qn=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "SiskaLeontyne",
-        "video_count": "331",
+        "video_count": "333",
         "subscriber_count": "108000",
-        "clip_count": 290,
+        "clip_count": 291,
         "top_topics": [
             "talk",
             "minecraft",
@@ -3285,7 +3285,7 @@ export const VTUBERS = {
         "group": "Wave 2021",
         "photo": "https://yt3.ggpht.com/TZGu8o5n8ElCiK-TFu-e0tyEIm_gGzyZMTcpfa2vYLPiK0nUsal7fm7xpWGqZtcbLHFRhv4e=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "@AXIA_96NE",
-        "video_count": "188",
+        "video_count": "190",
         "subscriber_count": "224000",
         "clip_count": 81,
         "top_topics": [
@@ -3339,7 +3339,7 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTTbL4Zvhb82JcPEF09ZcGlbljg27NsYdSP1R_N=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Luis_Cammy",
-        "video_count": "526",
+        "video_count": "528",
         "subscriber_count": "189000",
         "clip_count": 132,
         "top_topics": [
@@ -3375,9 +3375,9 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/VxzFz_Dvepexh6qF_j3-Sp1HsKz9u_t0YegWeQ4L_Vegz-BHMHSrpIo8BAE46Rv4AwsYDK_-Hw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ReimuEndou",
-        "video_count": "137",
-        "subscriber_count": "148000",
-        "clip_count": 289,
+        "video_count": "138",
+        "subscriber_count": "150000",
+        "clip_count": 296,
         "top_topics": [
             "apex",
             "membersonly",
@@ -3393,9 +3393,9 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/VxzFz_Dvepexh6qF_j3-Sp1HsKz9u_t0YegWeQ4L_Vegz-BHMHSrpIo8BAE46Rv4AwsYDK_-Hw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ReimuEndou",
-        "video_count": "137",
-        "subscriber_count": "148000",
-        "clip_count": 289,
+        "video_count": "138",
+        "subscriber_count": "150000",
+        "clip_count": 296,
         "top_topics": [
             "apex",
             "membersonly",
@@ -3411,7 +3411,7 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRHWKX5QF_YNsgxOMWvKbOuArKOoU1hgOtDrNHG=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ars_almal",
-        "video_count": "799",
+        "video_count": "801",
         "subscriber_count": "590000",
         "clip_count": 943,
         "top_topics": [
@@ -3429,8 +3429,8 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSdNE-T9cYM194hv2Xfs7jI-mpjsWH2aDOKOr-4tQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "g9v9g_mirei",
-        "video_count": "1066",
-        "subscriber_count": "398000",
+        "video_count": "1069",
+        "subscriber_count": "399000",
         "clip_count": 414,
         "top_topics": [
             "Mahjong",
@@ -3447,8 +3447,8 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSdNE-T9cYM194hv2Xfs7jI-mpjsWH2aDOKOr-4tQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "g9v9g_mirei",
-        "video_count": "1066",
-        "subscriber_count": "398000",
+        "video_count": "1069",
+        "subscriber_count": "399000",
         "clip_count": 414,
         "top_topics": [
             "Mahjong",
@@ -3465,7 +3465,7 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQPskjnn0-p_VgERL9vHmxTbsX6vnD7hoFM3TXwPg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Hayama_Marin",
-        "video_count": "289",
+        "video_count": "290",
         "subscriber_count": "225000",
         "clip_count": 167,
         "top_topics": [
@@ -3483,9 +3483,9 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/kBgInADvG3nt08S2796EVhXhN9SqUPdNir2jCSfioymem3qdnQqw1YSqOwgWa5UPFOoCY44n=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Petra_Gurin",
-        "video_count": "166",
-        "subscriber_count": "238000",
-        "clip_count": 759,
+        "video_count": "168",
+        "subscriber_count": "240000",
+        "clip_count": 765,
         "top_topics": [
             "membersonly",
             "talk",
@@ -3501,9 +3501,9 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/kBgInADvG3nt08S2796EVhXhN9SqUPdNir2jCSfioymem3qdnQqw1YSqOwgWa5UPFOoCY44n=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Petra_Gurin",
-        "video_count": "166",
-        "subscriber_count": "238000",
-        "clip_count": 759,
+        "video_count": "168",
+        "subscriber_count": "240000",
+        "clip_count": 765,
         "top_topics": [
             "membersonly",
             "talk",
@@ -3537,9 +3537,9 @@ export const VTUBERS = {
         "group": "Nijisanji ID",
         "photo": "https://yt3.ggpht.com/wq0Twc5pH-PrX6pzwZJp3FFrli6ww-LVl0GZSlRQYrAYi8vdNik3sCZHMhZIL6W8OSCzCnlpbA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "HyonaElatiora",
-        "video_count": "105",
-        "subscriber_count": "24300",
-        "clip_count": 63,
+        "video_count": "107",
+        "subscriber_count": "24400",
+        "clip_count": 64,
         "top_topics": [
             "talk",
             "Marshmallow",
@@ -3555,9 +3555,9 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/rBUqVoyIti32FfNnqy0cxMBZOLyvTmGoVjOqgMuvAjRdaEZR9EVAKQQ7atlIAJaCdmAgt_9OjlM=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "EliraPendora",
-        "video_count": "241",
-        "subscriber_count": "276000",
-        "clip_count": 837,
+        "video_count": "242",
+        "subscriber_count": "277000",
+        "clip_count": 842,
         "top_topics": [
             "minecraft",
             "membersonly",
@@ -3573,9 +3573,9 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSn6_wJR3tRDL5cStXSUO2ubhfAQe3PgX2r_zXhXQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ratna_petit",
-        "video_count": "712",
+        "video_count": "714",
         "subscriber_count": "368000",
-        "clip_count": 362,
+        "clip_count": 364,
         "top_topics": [
             "apex",
             "asmr",
@@ -3591,9 +3591,9 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSn6_wJR3tRDL5cStXSUO2ubhfAQe3PgX2r_zXhXQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ratna_petit",
-        "video_count": "712",
+        "video_count": "714",
         "subscriber_count": "368000",
-        "clip_count": 362,
+        "clip_count": 364,
         "top_topics": [
             "apex",
             "asmr",
@@ -3609,9 +3609,9 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/38atDMxhFxOVYLKvpttf6DpVzF_kMshpPvyH36p1a63l-GSGTKT6fre5T2KQfBV6abWZGa0i=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Mysta_Rias",
-        "video_count": "71",
-        "subscriber_count": "328000",
-        "clip_count": 183,
+        "video_count": "73",
+        "subscriber_count": "333000",
+        "clip_count": 185,
         "top_topics": [
             "shorts",
             "talk",
@@ -3628,7 +3628,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/Syz98DWDsGww7fN44G7vRmddvLLVJ96c5S0UbWrDKnvrZOMv2wBWEXE39we3bb86xTFFqh20cA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Karon_vtuber",
         "video_count": "9",
-        "subscriber_count": "3580",
+        "subscriber_count": "3590",
         "clip_count": null,
         "top_topics": [
             "drawing",
@@ -3645,8 +3645,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/lVG4_Ydu7iWKB7AZeQBf7PsoR_kVAUaKBlFEvqFpssTlRR0JTVk3ZH3bZQbYmd2PV1rfRFQuQg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "LuaAsuka_kawaii",
-        "video_count": "148",
-        "subscriber_count": "18600",
+        "video_count": "149",
+        "subscriber_count": "18700",
         "clip_count": 32,
         "top_topics": [
             "asmr",
@@ -3663,7 +3663,7 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTgcFAWo8ogKuv9d5aBN5E8sW2IIAbGXqZZH6m7=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ex_albio",
-        "video_count": "758",
+        "video_count": "760",
         "subscriber_count": "304000",
         "clip_count": 401,
         "top_topics": [
@@ -3681,8 +3681,8 @@ export const VTUBERS = {
         "group": "Nijisanji KR",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRd7teJyS_Haq8JaINqNTaCLvfWgxAVycHAuZJkxg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ChihoHan2434",
-        "video_count": "369",
-        "subscriber_count": "43400",
+        "video_count": "370",
+        "subscriber_count": "43600",
         "clip_count": 23,
         "top_topics": [
             "talk",
@@ -3700,7 +3700,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLREm2qoo8RlDjLNB1W6kImyN0m4Mj5mwkDuV-eu=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Azura_Cecillia",
         "video_count": "391",
-        "subscriber_count": "44100",
+        "subscriber_count": "44200",
         "clip_count": 115,
         "top_topics": [
             "Final_fantasy",
@@ -3717,7 +3717,7 @@ export const VTUBERS = {
         "group": "Nijisanji ID",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLT-HQY8Qb278GmEOdCstkc3iwi-1dpDp5V9_L4a=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "RiksaDhirendra",
-        "video_count": "505",
+        "video_count": "506",
         "subscriber_count": "45400",
         "clip_count": 47,
         "top_topics": [
@@ -3735,8 +3735,8 @@ export const VTUBERS = {
         "group": "Wave 2020",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLT8jX2XU6VpM_4AG2Bi9FsW-Xe1uyNVsXzbGewx=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Suo_Sango",
-        "video_count": "354",
-        "subscriber_count": "280000",
+        "video_count": "355",
+        "subscriber_count": "281000",
         "clip_count": 94,
         "top_topics": [
             "Superchat_Reading",
@@ -3807,8 +3807,8 @@ export const VTUBERS = {
         "group": "Nijisanji ID",
         "photo": "https://yt3.ggpht.com/7mic8jKhhS14RTu6MYUcMtLyem1b0eFGsdIbnOpKorF6QreHD-LP3Mh3Gg5-k1bs6bPtwPCkng=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "DeremKado",
-        "video_count": "317",
-        "subscriber_count": "28300",
+        "video_count": "318",
+        "subscriber_count": "28400",
         "clip_count": 32,
         "top_topics": [
             "minecraft",
@@ -3825,9 +3825,9 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRPx1tjN1hlw9cNU2fPZTSJEpQrtSBnuc6DLhJ2=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "333akina",
-        "video_count": "559",
-        "subscriber_count": "442000",
-        "clip_count": 398,
+        "video_count": "560",
+        "subscriber_count": "443000",
+        "clip_count": 399,
         "top_topics": [
             "apex",
             "minecraft",
@@ -3843,9 +3843,9 @@ export const VTUBERS = {
         "group": "Wave 2020",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLSLhJrR8rttYQFpqlGEEZKoRNYLOcrwkS0bRFjM=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Kaida_Haru",
-        "video_count": "812",
+        "video_count": "813",
         "subscriber_count": "379000",
-        "clip_count": 318,
+        "clip_count": 319,
         "top_topics": [
             "minecraft",
             "singing",
@@ -3879,11 +3879,13 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "alban_knox",
-        "video_count": "9",
-        "subscriber_count": "83200",
-        "clip_count": 7,
+        "video_count": "11",
+        "subscriber_count": "91000",
+        "clip_count": 9,
         "top_topics": [
-            "shorts"
+            "shorts",
+            "talk",
+            "getting_over_it"
         ]
     },
     "evans": {
@@ -3895,7 +3897,7 @@ export const VTUBERS = {
         "group": "Wave 2021",
         "photo": "https://yt3.ggpht.com/H0CnxuCVqCtqcWq7i9LmkmHCXKopCpwD6TFtIsGsY3bLXf1_jmmsWM3gskGyu--2JVbHWPGURA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "@oliverD_23",
-        "video_count": "157",
+        "video_count": "158",
         "subscriber_count": "190000",
         "clip_count": 139,
         "top_topics": [
@@ -3931,9 +3933,9 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/SU0GdLniYhiM9o7g9SAFV53plTjlBsm-rUkVNtYL6qLapS1ziYbgKkNL_gp1cl1-AVOhhMq9ZA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Yugo_Asuma",
-        "video_count": "6",
-        "subscriber_count": "78500",
-        "clip_count": 12,
+        "video_count": "8",
+        "subscriber_count": "85800",
+        "clip_count": 17,
         "top_topics": [
             "Devil_may_cry",
             "shorts",
@@ -3949,7 +3951,7 @@ export const VTUBERS = {
         "group": "Wave 1",
         "photo": "https://yt3.ggpht.com/xGQ_-9VQMpoWBMSPlhx6zdQnOTH6ThIVDD5astbuhC49itMZHVqS6fBh3p4a87TioLBsNeftbA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "HiguchiKaede",
-        "video_count": "753",
+        "video_count": "754",
         "subscriber_count": "491000",
         "clip_count": 527,
         "top_topics": [
@@ -3967,9 +3969,9 @@ export const VTUBERS = {
         "group": "Gamers",
         "photo": "https://yt3.ggpht.com/dfCsIDvqaK7K1yIzVFGEq5-1cBAdERky6P4qwqcyXFNLVW1cV-rx7J-Gaj6dUSl2ZaRNPdl0gg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Kanae_2434",
-        "video_count": "2408",
-        "subscriber_count": "947000",
-        "clip_count": 2737,
+        "video_count": "2410",
+        "subscriber_count": "949000",
+        "clip_count": 2743,
         "top_topics": [
             "apex",
             "pubg",
@@ -3985,9 +3987,9 @@ export const VTUBERS = {
         "group": "Wave 2020",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTbqZA5R2hAgz0sIuRhGyUsJJ3cGvBEou4rR0Y=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "furen_2434",
-        "video_count": "577",
-        "subscriber_count": "423000",
-        "clip_count": 714,
+        "video_count": "578",
+        "subscriber_count": "424000",
+        "clip_count": 715,
         "top_topics": [
             "minecraft",
             "talk",
@@ -4003,9 +4005,9 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/9t-Lhqhz6BkX_-yblFVwvbhlvobb8WuVBLCF30xxJBrBItkvg30Bt0MQ6wU3ih4oRS9yi8k0Ob4=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "FinanaRyugu",
-        "video_count": "239",
-        "subscriber_count": "261000",
-        "clip_count": 881,
+        "video_count": "240",
+        "subscriber_count": "262000",
+        "clip_count": 884,
         "top_topics": [
             "genshin",
             "Honkai_Impact_3rd",
@@ -4021,9 +4023,9 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "sonny_brisko",
-        "video_count": "5",
-        "subscriber_count": "69000",
-        "clip_count": 7,
+        "video_count": "7",
+        "subscriber_count": "75300",
+        "clip_count": 9,
         "top_topics": [
             "Metal_Gear",
             "shorts",
@@ -4039,8 +4041,8 @@ export const VTUBERS = {
         "group": "Wave 2019",
         "photo": "https://yt3.ggpht.com/s5fPeGoPZQH3shTefPn7Y53n5iswwF8w_sqAFfwX6Id-HjJMAL03_0M5BWj4--afvB6nGLQU1A=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Tomoe_Shirayuki",
-        "video_count": "631",
-        "subscriber_count": "351000",
+        "video_count": "632",
+        "subscriber_count": "352000",
         "clip_count": 303,
         "top_topics": [
             "talk",
@@ -4057,9 +4059,9 @@ export const VTUBERS = {
         "group": "Nijisanji EN",
         "photo": "https://yt3.ggpht.com/OLpUvHlKRG9RrHxJo_QV0OYrh_bvUPpKI-MK80f8SBA2uTmre_Kx1Gq9lZhU6rmOEYlvo33Pp3M=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Selen_Tatsuki",
-        "video_count": "210",
-        "subscriber_count": "258000",
-        "clip_count": 1025,
+        "video_count": "213",
+        "subscriber_count": "259000",
+        "clip_count": 1034,
         "top_topics": [
             "apex",
             "membersonly",
@@ -4093,7 +4095,7 @@ export const VTUBERS = {
         "group": "Wave 1",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTKBRtfrpYcNOdBNo6aEgFvKw9FV4C14xBBUpDP=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Moiramoimoimoi",
-        "video_count": "361",
+        "video_count": "363",
         "subscriber_count": "137000",
         "clip_count": 18,
         "top_topics": [
@@ -4112,8 +4114,8 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ZdU0mQTwpOUTW6COr5JZjBb_VLTBShB-yDvR3v0eMz1_MQrQiMYyCk5QYFgM8SJ2lAaRortAHNo=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "suzukautako",
         "video_count": "705",
-        "subscriber_count": "512000",
-        "clip_count": 215,
+        "subscriber_count": "513000",
+        "clip_count": 216,
         "top_topics": [
             "talk",
             "singing",
@@ -4129,7 +4131,7 @@ export const VTUBERS = {
         "group": "SEEDS",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTI4ttkGOlmy7_ONt9zkWTbAIe7PbjaOpfmes-H=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Kanda_Shoichi",
-        "video_count": "1374",
+        "video_count": "1376",
         "subscriber_count": "217000",
         "clip_count": 140,
         "top_topics": [
@@ -4147,8 +4149,8 @@ export const VTUBERS = {
         "group": "Wave 2020",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLT2z2m_TW6ClXaMu24zuw3_IP5hksYIwDhUibCd=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "kei_nagao2434",
-        "video_count": "735",
-        "subscriber_count": "243000",
+        "video_count": "737",
+        "subscriber_count": "244000",
         "clip_count": 121,
         "top_topics": [
             "minecraft",
@@ -4165,9 +4167,9 @@ export const VTUBERS = {
         "group": "Nijisanji ID",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTZr0nNCdIAtmpuLo5JiEKgCIDtOy5YYL9Nc2xC=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "LaylaAlstro2434",
-        "video_count": "427",
-        "subscriber_count": "53700",
-        "clip_count": 63,
+        "video_count": "428",
+        "subscriber_count": "54000",
+        "clip_count": 64,
         "top_topics": [
             "Duolingo",
             "talk",
@@ -4201,7 +4203,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ab1p41f1quWyteO6IHaYVEXpZHsoftG3TejXnFEffSGndsOI5vCYGIWPG6-Rj7dtxLLWOGrd9g=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "tenmamaemi",
-        "video_count": "198",
+        "video_count": "199",
         "subscriber_count": "25400",
         "clip_count": 116,
         "top_topics": [
@@ -4219,7 +4221,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ab1p41f1quWyteO6IHaYVEXpZHsoftG3TejXnFEffSGndsOI5vCYGIWPG6-Rj7dtxLLWOGrd9g=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "tenmamaemi",
-        "video_count": "198",
+        "video_count": "199",
         "subscriber_count": "25400",
         "clip_count": 116,
         "top_topics": [
@@ -4237,8 +4239,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/Uv6EuTjobBEKwGigQTJnfr-5DkrC1fL3EshHqaSTPfBrYdiOfG6bGWJd8jCTpSizv0Ci-ZrvboI=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "pipkinpippa",
-        "video_count": "212",
-        "subscriber_count": "27400",
+        "video_count": "215",
+        "subscriber_count": "27600",
         "clip_count": 17,
         "top_topics": [
             "shorts",
@@ -4255,8 +4257,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/WNG8G6hOhsw-CqEMWF26QPUfuFcU74ALzydzTBuDB4TNQDOQWygmlDZnUytvdccH5ckrh95D=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "fujikurauruka",
-        "video_count": "214",
-        "subscriber_count": "31700",
+        "video_count": "215",
+        "subscriber_count": "31800",
         "clip_count": 23,
         "top_topics": [
             "singing",
@@ -4273,8 +4275,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ek4O3kquLbMNTqmCwHaj4PYE8SkphVV9BK1-y_pbBQgkWqUJDPMO_-BYWlc5HwfEanYHEQVv=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Aisha_Channel",
-        "video_count": "610",
-        "subscriber_count": "416000",
+        "video_count": "613",
+        "subscriber_count": "417000",
         "clip_count": 5,
         "top_topics": [
             "Music_Cover",
@@ -4291,7 +4293,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/Ep-FBlTkEcjuFAU9GtNR-aQTprYQsSFlEcsiRCr0Rbs-0IzJ84npy2bsLxoNwS_QBLeeq73Uvw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "PolygonLuxia",
-        "video_count": "342",
+        "video_count": "343",
         "subscriber_count": "40700",
         "clip_count": null,
         "top_topics": [
@@ -4309,8 +4311,8 @@ export const VTUBERS = {
         "group": "Generation2",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTw3xW4t-5ZPLE1TgDIFyHODyuFR34vz8Zy_gsE=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "LutoAraka",
-        "video_count": "228",
-        "subscriber_count": "65300",
+        "video_count": "229",
+        "subscriber_count": "65400",
         "clip_count": 154,
         "top_topics": [
             "minecraft",
@@ -4327,7 +4329,7 @@ export const VTUBERS = {
         "group": "Generation3",
         "photo": "https://yt3.ggpht.com/rsKUsvkZMZIGzOwYhXMEN8Ktovo_59vr5OYG6btna8iMFZ6zeBlmBMl3IN-CNF6mCjGdPJ5svnI=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ShikiMiyoshino",
-        "video_count": "231",
+        "video_count": "234",
         "subscriber_count": "115000",
         "clip_count": 45,
         "top_topics": [
@@ -4345,8 +4347,8 @@ export const VTUBERS = {
         "group": "Generation1",
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQIh0u6xUZOWWbNorUAdCX83lhDlUK1MnAj1IEh=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "IbukiMeno",
-        "video_count": "401",
-        "subscriber_count": "16300",
+        "video_count": "404",
+        "subscriber_count": "16400",
         "clip_count": 11,
         "top_topics": [
             "Princess_Connect",
@@ -4364,7 +4366,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/7J-8U-QAMKXai9HTv0gla8CvNjkDeJDJDYzwgE6v36Gsp1RdrJpFblGaG113H535xjjVB-aQ5A=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "gururu_kawaii",
         "video_count": "44",
-        "subscriber_count": "7900",
+        "subscriber_count": "7940",
         "clip_count": 12,
         "top_topics": [
             "Call_of_Duty",
@@ -4381,8 +4383,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/hoDRJ9e6umxgqsajj_PSXDr6Nu2oHbfbV7DQUvr0TgoWZWYdw1o1_qC3kIJWWtIdJ2eH-SMODA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Neena_Kawaii",
-        "video_count": "182",
-        "subscriber_count": "14100",
+        "video_count": "184",
+        "subscriber_count": "14200",
         "clip_count": 35,
         "top_topics": [
             "shorts",
@@ -4401,7 +4403,7 @@ export const VTUBERS = {
         "twitter": "amanopikamee",
         "video_count": "645",
         "subscriber_count": "586000",
-        "clip_count": 981,
+        "clip_count": 983,
         "top_topics": [
             "membersonly",
             "talk",
@@ -4435,7 +4437,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/LTCDJSQQXlKJ54iDFFjhl0UcVVtGPcQQqiKckl0mIsTJzl1_-tdHsXwxrkwEngm6JYB1jvkQlg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ikoimomoa",
-        "video_count": "109",
+        "video_count": "110",
         "subscriber_count": "10800",
         "clip_count": 2,
         "top_topics": [
@@ -4453,7 +4455,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/IfgcrN8ioXQ8do91C4RFtpuuTXvB3lhn5NG8rGKYQ5G1sDQ9ZVGtzS21bLQ-lqbSQsZWQr8Scw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "sakuya_azusa",
-        "video_count": "182",
+        "video_count": "184",
         "subscriber_count": "18600",
         "clip_count": 5,
         "top_topics": [
@@ -4471,7 +4473,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/09d-QZ_t5ou4U4vcDjSaHYC7AZ-LsM17wSDicMRtk7xc6x5OBaT1mWO--CAU86UEh_lCx-ud1NU=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "sb_ribon_",
-        "video_count": "1144",
+        "video_count": "1128",
         "subscriber_count": "97000",
         "clip_count": 658,
         "top_topics": [
@@ -4489,8 +4491,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/s2ABVX7oiE7VMCN008UdXmjV26kELUEpVY0r5u93MNjj7BNpLhB5S6YvFRMJiiDsyiIfgWmF=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Kanau_Yumekawa",
-        "video_count": "428",
-        "subscriber_count": "25400",
+        "video_count": "430",
+        "subscriber_count": "25500",
         "clip_count": 57,
         "top_topics": [
             "singing",
@@ -4507,7 +4509,7 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/XdGacxrNaqlN68Qohc6qFvWZUqaOn3iiXK3bVWA1B4Zgb7LOaTnyC3gNcAGZDcvoUxCNScDE=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "LeonaShishigami",
-        "video_count": "594",
+        "video_count": "595",
         "subscriber_count": "272000",
         "clip_count": 116,
         "top_topics": [
@@ -4541,7 +4543,7 @@ export const VTUBERS = {
         "type": "vtuber",
         "org": "ReAcT",
         "group": null,
-        "photo": "https://yt3.ggpht.com/ytc/AKedOLR-QS8as88Lzy8-Jd3hgEe5FopkVNCfupugck6a8A=s800-c-k-c0x00ffffff-no-rj",
+        "photo": "https://yt3.ggpht.com/4wqgVYh6yG7LfUO4j9Xst_rmqFwiqe2xgfVgM9s5LOUqaVc7hGaAXFgct_k41VljrCE78aAVB1Y=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "matoi_inuki",
         "video_count": "551",
         "subscriber_count": "48300",
@@ -4559,7 +4561,7 @@ export const VTUBERS = {
         "type": "vtuber",
         "org": "ReAcT",
         "group": null,
-        "photo": "https://yt3.ggpht.com/ytc/AKedOLR-QS8as88Lzy8-Jd3hgEe5FopkVNCfupugck6a8A=s800-c-k-c0x00ffffff-no-rj",
+        "photo": "https://yt3.ggpht.com/4wqgVYh6yG7LfUO4j9Xst_rmqFwiqe2xgfVgM9s5LOUqaVc7hGaAXFgct_k41VljrCE78aAVB1Y=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "matoi_inuki",
         "video_count": "551",
         "subscriber_count": "48300",
@@ -4579,8 +4581,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/c28mMv2uV2ZMJHfW-w1SoZfNPu5PkKXeW4RLhRLMGOG7YxBB-6Gjs6rGqGqpwSggf2zdCcLd=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "ReynardBlanc",
-        "video_count": "228",
-        "subscriber_count": "33900",
+        "video_count": "229",
+        "subscriber_count": "34000",
         "clip_count": 14,
         "top_topics": [
             "singing",
@@ -4597,8 +4599,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/Yf6LCzG8H2RZtHBHwNr6dMcBHabrmDW_fhmxW7o2Qc7m-tKLJk5YkGOuwnRzakaiW9g7_X8hZA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "LilyIfeta",
-        "video_count": "249",
-        "subscriber_count": "20300",
+        "video_count": "250",
+        "subscriber_count": "20400",
         "clip_count": 32,
         "top_topics": [
             "singing",
@@ -4616,7 +4618,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLShN5iqpG5nHTSeexqEK0sn04deTjr3AK_WCvc=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "RIOTMUSIC_info",
         "video_count": "7",
-        "subscriber_count": "7980",
+        "subscriber_count": "8020",
         "clip_count": null,
         "top_topics": [
             "watchalong"
@@ -4632,7 +4634,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/KaZdNPlhd94o1KNP8fBS68m3nigY2sYEYzQRr39yVZjVdyvvJa-avrqkJrnsPBfVojCz9zCbYQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "miona_s_RIOT",
         "video_count": "6",
-        "subscriber_count": "18400",
+        "subscriber_count": "18500",
         "clip_count": null,
         "top_topics": [
             "Music_Cover",
@@ -4649,7 +4651,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTQPoeSgwH4Bp7whqaCNpf8835tt7EcYM8JcpUA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Michi_ASMR",
         "video_count": "89",
-        "subscriber_count": "20500",
+        "subscriber_count": "20600",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -4667,7 +4669,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTQPoeSgwH4Bp7whqaCNpf8835tt7EcYM8JcpUA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Michi_ASMR",
         "video_count": "89",
-        "subscriber_count": "20500",
+        "subscriber_count": "20600",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -4685,7 +4687,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/EbxngFUmWDNMYNuRuttWkjGAc6njvxFshPwOxC53crcsf7bn0rl3cR7Hx5zpHYxa43-E8lNBSg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Mare_ASMR",
         "video_count": "62",
-        "subscriber_count": "198000",
+        "subscriber_count": "199000",
         "clip_count": 2,
         "top_topics": [
             "asmr",
@@ -4701,8 +4703,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLTqxqJvcc8aMFxXxnDQeqN07FJutit9KQ2gg0XJ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Sakuma_Lovey",
-        "video_count": "212",
-        "subscriber_count": "20800",
+        "video_count": "213",
+        "subscriber_count": "21000",
         "clip_count": null,
         "top_topics": [
             "asmr",
@@ -4738,8 +4740,8 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/qtoOWznVFgL1aW9mtaEKqH3Sq0rKSF6hDpp34kvcul-OQCB60EDwb6KcOXAKZrx0dXOugoh2=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "AmrzsMonstar",
         "video_count": "39",
-        "subscriber_count": "9010",
-        "clip_count": 2,
+        "subscriber_count": "9070",
+        "clip_count": 3,
         "top_topics": [
             "genshin",
             "minecraft",
@@ -4755,8 +4757,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLQqOHV49bP2LLZUeJigUsM88W-dMOahKA95PXLi=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "Obear_rescute",
-        "video_count": "144",
-        "subscriber_count": "31100",
+        "video_count": "146",
+        "subscriber_count": "31200",
         "clip_count": 42,
         "top_topics": [
             "minecraft",
@@ -4792,7 +4794,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/scPqSFZbPBJpzkhEXUq8Hd4yCrfnzW4lEDmAzA9APCj8pthB03JpfOpoyKsoxi6khvry1N6pYw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "inukaipurin",
         "video_count": "168",
-        "subscriber_count": "31700",
+        "subscriber_count": "31800",
         "clip_count": 7,
         "top_topics": [
             "Yakuza",
@@ -4810,7 +4812,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/lMhQqFQaUzy1RTvfu7xcYvCYuThhyagEo_iXvq4VSAzU6iuvQHtRnoKsHemlw73vJxCKN2kb-Q=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "umiushiurara",
         "video_count": "53",
-        "subscriber_count": "6500",
+        "subscriber_count": "6520",
         "clip_count": 6,
         "top_topics": [
             "talk",
@@ -4828,7 +4830,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/zN9XG3dNlbor22BYl24QRDqeZ-kSlqG8_HW_PvDvqyBJTPxdlDvhOKVcQ-OeyR_UXdiq4EkuXQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "orlaganceann",
         "video_count": "108",
-        "subscriber_count": "3590",
+        "subscriber_count": "3600",
         "clip_count": 2,
         "top_topics": [
             "dbd",
@@ -4845,8 +4847,8 @@ export const VTUBERS = {
         "group": "Generation 3",
         "photo": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "amiyaaranha",
-        "video_count": "104",
-        "subscriber_count": "4220",
+        "video_count": "106",
+        "subscriber_count": "4370",
         "clip_count": null,
         "top_topics": [
             "residentevil",
@@ -4863,8 +4865,8 @@ export const VTUBERS = {
         "group": "Generation 1",
         "photo": "https://yt3.ggpht.com/wWe-Gu7jH1gpJJFR4n_9LWVeC3ohD_IAPtyXvEaEqmfbNh7IjGrSdzkiKpEnQn6UIQYrEeZZhg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "mioricelesta",
-        "video_count": "251",
-        "subscriber_count": "163000",
+        "video_count": "254",
+        "subscriber_count": "166000",
         "clip_count": 29,
         "top_topics": [
             "Music_Cover",
@@ -4881,8 +4883,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/y1V_Zp2nGvxelGmFbUlE9JKp2sItQvbEmf8s61I6f_skKB9KT5w93R8l6HrG8Ye6jIBow6q3rRI=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "hettozu",
-        "video_count": "126",
-        "subscriber_count": "817000",
+        "video_count": "127",
+        "subscriber_count": "819000",
         "clip_count": null,
         "top_topics": [
             "minecraft",
@@ -4900,7 +4902,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRF_ConWmQayZcnv2vWqEFShnBJsaE0xSbPrb0qhQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "\u30a2\u30af\u30ed\u30fc",
         "video_count": "11",
-        "subscriber_count": "899",
+        "subscriber_count": "901",
         "clip_count": 6,
         "top_topics": [
             "drawing",
@@ -4918,7 +4920,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/QMIpkuTYgSSzOoonDmqVQSK8fXztC1cCUkNJrOJ1WbF2zzb0zhdTuWsE_jITQvOQ2SONIswZ0g=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "eto_etora",
         "video_count": "132",
-        "subscriber_count": "848",
+        "subscriber_count": "849",
         "clip_count": 17,
         "top_topics": [
             "talk",
@@ -4971,8 +4973,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/Cp0beyno_MaYVhsAfYZToiCVsYWx9xAEm1baj9PesOC2sNlcwwDfg4XPpEw_eTAhyvgoXGkb3w=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "asagi_saki_",
-        "video_count": "125",
-        "subscriber_count": "2950",
+        "video_count": "126",
+        "subscriber_count": "2960",
         "clip_count": null,
         "top_topics": [
             "Pokemon",
@@ -5008,7 +5010,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/ytc/AKedOLRWScWXFXKL63OVMUI_kUn4dUH1qfMYEq10Y5JvgQ=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "GYARI_",
         "video_count": "25",
-        "subscriber_count": "447000",
+        "subscriber_count": "448000",
         "clip_count": 4,
         "top_topics": [
             "announce",
@@ -5026,7 +5028,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/FWsdcwLNSLh4LsFE0zpRrpMvrgU_ybdcCFONz_PExm0plfSWpBjuSxBhjAInP9Dzx7nrtmE2=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "amanopikamee",
         "video_count": "7",
-        "subscriber_count": "2270",
+        "subscriber_count": "2290",
         "clip_count": 2,
         "top_topics": [
             "Heavy_Rain",
@@ -5047,9 +5049,9 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ytc/AKedOLStDDDwZwo4DiRIi-rpHkHPD-rcuZQOHdR5yklB=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "sena_asumi",
-        "video_count": "289",
+        "video_count": "290",
         "subscriber_count": "103000",
-        "clip_count": 66,
+        "clip_count": 67,
         "top_topics": [
             "apex",
             "morning",
@@ -5102,7 +5104,7 @@ export const VTUBERS = {
         "photo": "https://yt3.ggpht.com/o6zqkbY5igUpM9bz-_zhWqgIZ0nO4C9FDsr3TvGjb-5b2sqMBLUyNqiwcs_pVO4OLlLmYToyNw=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "TsuyuHortenshia",
         "video_count": "242",
-        "subscriber_count": "38600",
+        "subscriber_count": "38700",
         "clip_count": 30,
         "top_topics": [
             "singing",
@@ -5137,8 +5139,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/mpFzaK71_-xRWDkxp-UurZhxwMpb0R5aukuPp4l5qI0IwdKo1FhX3-ORA-gHXgcsdvQr_QQjcg=s800-c-k-c0x00ffffff-no-rj",
         "twitter": "KeroroSuika",
-        "video_count": "33",
-        "subscriber_count": "25800",
+        "video_count": "34",
+        "subscriber_count": "26000",
         "clip_count": 15,
         "top_topics": [
             "shorts",
@@ -5155,8 +5157,8 @@ export const VTUBERS = {
         "group": null,
         "photo": "https://yt3.ggpht.com/ZFF_hEJhjNyF3UJLolZZPEV8EMM7V-e8HtTvzLiZXNM6s4rh518242ghR-bUXRYkMaJtedKoaZA=s800-c-k-c0x00ffffff-no-rj",
         "twitter": null,
-        "video_count": "164",
-        "subscriber_count": "98600",
+        "video_count": "165",
+        "subscriber_count": "99800",
         "clip_count": null,
         "top_topics": [
             "shorts",
@@ -5193,4 +5195,4 @@ export const VTUBERS = {
     }
 } as unknown as Record<string, VTuber>;
 
-export const WORDS = Object.keys(VTUBERS).sort();
+export const WORDS = Object.keys(VTUBERS);
