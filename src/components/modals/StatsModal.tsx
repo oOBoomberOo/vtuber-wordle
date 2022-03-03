@@ -11,6 +11,7 @@ import {
   NEW_WORD_TEXT,
   SHARE_TEXT,
 } from '../../constants/strings'
+import { VTuber } from '../info/VTuber'
 
 type Props = {
   isOpen: boolean
@@ -59,6 +60,9 @@ export const StatsModal = ({
         {GUESS_DISTRIBUTION_TEXT}
       </h4>
       <Histogram gameStats={gameStats} />
+
+      <VTuber />
+
       {(isGameLost || isGameWon) && (
         <div className="mt-5 sm:mt-6 columns-2 dark:text-white">
           <div>
