@@ -80,7 +80,7 @@ const genSalt = () => {
 const timezone = 9 * 60 * 60 * 1000
 const offset = new Date().getTimezoneOffset() * 60 * 1000
 
-const fixedDate = (date: Date) => {
+export const fixedDate = (date: Date) => {
   return date.getTime() - timezone - offset
 }
 
