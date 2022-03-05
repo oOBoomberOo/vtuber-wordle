@@ -69,7 +69,7 @@ export const StatsModal = ({
             <h5>{NEW_WORD_TEXT}</h5>
             <Countdown
               className="text-lg font-medium text-gray-900 dark:text-gray-100"
-              date={tomorrow}
+              date={tomorrow.toJSDate()}
               daysInHours={true}
             />
           </div>

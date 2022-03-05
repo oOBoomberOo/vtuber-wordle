@@ -4,6 +4,7 @@ import { WRONG_SPOT_MESSAGE, NOT_CONTAINED_MESSAGE } from '../constants/strings'
 import { getGuessStatuses } from './statuses'
 import { default as GraphemeSplitter } from 'grapheme-splitter'
 import { loadGameStateFromLocalStorage } from './localStorage'
+import { DateTime, Duration } from "luxon";
 
 export const isWordInWordList = (word: string) => {
   return (
@@ -77,24 +78,16 @@ const genSalt = () => {
   return Math.floor(Math.random() * 2147483647)
 }
 
-const timezone = 9 * 60 * 60 * 1000
-const offset = new Date().getTimezoneOffset() * 60 * 1000
-
-export const fixedDate = (date: Date) => {
-  return date.getTime() - timezone - offset
-}
-
 export const getWordOfDay = () => {
   const state = loadGameStateFromLocalStorage()
   const salt = state?.salt ?? genSalt()
 
   // January 1, 2022 Game Epoch
-  const fixedEpochMs = fixedDate(new Date('January 1, 2022 00:00:00'))
-  const now = Date.now()
-  const msInDay = 86400000
-  const index = Math.floor((now - fixedEpochMs) / msInDay)
+  const epoch = DateTime.fromObject({ year: 2022, month: 1, day: 1 }, { zone: 'Asia/Tokyo' });
+  const now = DateTime.now()
 
-  const nextday = (index + 1) * msInDay + fixedEpochMs
+  const index = Math.floor(now.diff(epoch).as('days'))
+  const nextday = epoch.plus(Duration.fromObject({ day: index + 1 }))
 
   return {
     solution: localeAwareUpperCase(WORDS[(index + salt) % WORDS.length]),
