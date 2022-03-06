@@ -3,7 +3,6 @@ import { VALID_GUESSES } from '../constants/validGuesses'
 import { WRONG_SPOT_MESSAGE, NOT_CONTAINED_MESSAGE } from '../constants/strings'
 import { getGuessStatuses } from './statuses'
 import { default as GraphemeSplitter } from 'grapheme-splitter'
-import { loadGameStateFromLocalStorage } from './localStorage'
 import { DateTime, Duration } from "luxon";
 
 export const isWordInWordList = (word: string) => {
@@ -74,28 +73,20 @@ export const localeAwareUpperCase = (text: string) => {
     : text.toUpperCase()
 }
 
-const genSalt = () => {
-  return Math.floor(Math.random() * 2147483647)
-}
-
 export const getWordOfDay = () => {
-  const state = loadGameStateFromLocalStorage()
-  const salt = state?.salt ?? genSalt()
-
   // January 1, 2022 Game Epoch
-  const epoch = DateTime.fromObject({ year: 2022, month: 1, day: 1 }, { zone: 'Asia/Tokyo' });
+  const epoch = DateTime.fromObject({ year: 2022, month: 1, day: 1 });
   const now = DateTime.now()
 
   const index = Math.floor(now.diff(epoch).as('days'))
   const nextday = epoch.plus(Duration.fromObject({ day: index + 1 }))
 
   return {
-    solution: localeAwareUpperCase(WORDS[(index + salt) % WORDS.length]),
+    solution: localeAwareUpperCase(WORDS[index % WORDS.length]),
     solutionIndex: index,
     tomorrow: nextday,
-    salt,
   }
 }
 
-export const { solution, solutionIndex, tomorrow, salt } = getWordOfDay()
+export const { solution, solutionIndex, tomorrow } = getWordOfDay()
 export const vtuber = VTUBERS[localeAwareLowerCase(solution)];
